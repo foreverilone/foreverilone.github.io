@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a51545d.chunk.css",
+    "main.js": "/static/js/main.27d1e069.chunk.js",
+    "main.js.map": "/static/js/main.27d1e069.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99bdfec6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99bdfec6.js.map",
+    "static/js/2.6c6b6af3.chunk.js": "/static/js/2.6c6b6af3.chunk.js",
+    "static/js/2.6c6b6af3.chunk.js.map": "/static/js/2.6c6b6af3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a4be90ad58331b517713acbe903a3be7.js": "/precache-manifest.a4be90ad58331b517713acbe903a3be7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0a51545d.chunk.css.map": "/static/css/main.0a51545d.chunk.css.map",
+    "static/js/2.6c6b6af3.chunk.js.LICENSE.txt": "/static/js/2.6c6b6af3.chunk.js.LICENSE.txt",
+    "static/media/close-modal.svg": "/static/media/close-modal.b3565623.svg",
+    "static/media/close.svg": "/static/media/close.c8af5ee5.svg",
+    "static/media/hamburgermenu.svg": "/static/media/hamburgermenu.ede27f60.svg",
+    "static/media/Footer.css": "/static/media/vk.6c623333.svg",
+    "static/media/Contacts.css": "/static/media/vkdark.d79c7bd7.svg",
+    "static/media/logo_sababa.png": "/static/media/logo_sababa.7a461441.png",
+    "static/media/user.png": "/static/media/user.ebe07460.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99bdfec6.js",
+    "static/js/2.6c6b6af3.chunk.js",
+    "static/css/main.0a51545d.chunk.css",
+    "static/js/main.27d1e069.chunk.js"
+  ]
+}
